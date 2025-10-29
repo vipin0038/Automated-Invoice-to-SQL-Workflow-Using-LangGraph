@@ -25,7 +25,7 @@ Built an automated workflow using LangGraph and LLMs that extracts text from inv
 - **Groq**
 
 
-Workflow Working
+## Working Workflow Demo 
 
 ![Invoice Workflow Demo](resources/video_invoice_workflow_.gif)
 
