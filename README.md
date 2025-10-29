@@ -25,7 +25,9 @@ Built an automated workflow using LangGraph and LLMs that extracts text from inv
 
 Workflow Working
 
-![Workflow working](resources/video_invoice_workflow.mp4)  
+
+<video src="resources/video_invoice_workflow.mp4" controls width="700"></video>
+
 
 
 *(The video showcases how an invoice image is processed, converted into SQL, reviewed for approval, and inserted into the database.)*
