@@ -26,7 +26,7 @@ Built an automated workflow using LangGraph and LLMs that extracts text from inv
 Workflow Working
 
 
-<video src="resources/video_invoice_workflow.mp4" controls width="700"></video>
+<video src="video_invoice_workflow_.gif" controls width="700"></video>
 
 
 
