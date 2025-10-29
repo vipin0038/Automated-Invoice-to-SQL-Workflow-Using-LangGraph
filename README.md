@@ -4,6 +4,8 @@ Built an automated workflow using LangGraph and LLMs that extracts text from inv
 
 ##  Workflow Diagram
 ![Workflow Diagram](resources/workflow_graph.png)
+
+
 *(Diagram of LangGraph workflow showing the extraction, SQL generation, and approval process)*
 
 
