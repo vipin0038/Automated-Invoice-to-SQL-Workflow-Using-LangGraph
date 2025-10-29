@@ -4,6 +4,7 @@ Built an automated workflow using LangGraph and LLMs that extracts text from inv
 
 ##  Workflow Diagram
 ![Workflow Diagram](resources/workflow_graph.png)
+*(Diagram of LangGraph workflow showing the extraction, SQL generation, and approval process)*
 
 
 
@@ -22,19 +23,18 @@ Built an automated workflow using LangGraph and LLMs that extracts text from inv
 - **Groq**
 
 
-Watch the full demo of the workflow in action 👇  
-
-https://github.com/yourusername/invoice-automation-langgraph/assets/your_video_id  
+Workflow Working
+  
 
 Or view it directly from the repository:  
-<video src="videos/invoice_demo.mp4" controls width="700"></video>
+<video src="resources/video_invoice_workflow.mp4" controls width="700"></video>
 
 *(The video showcases how an invoice image is processed, converted into SQL, reviewed for approval, and inserted into the database.)*
 
 
 
 
-*(Diagram of LangGraph workflow showing the extraction, SQL generation, and approval process)*
+
 
 
 
